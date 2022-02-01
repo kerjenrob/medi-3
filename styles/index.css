@@ -1,3 +1,5 @@
+
+
 .logo {
     margin-top: 37px;
     margin-left: 80px;
@@ -15,6 +17,61 @@
     color: #A3DC00;
 }
 
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+.header-home {
+    margin-top: 48px;
+    margin-left: 98px;
+}
+
+.header-about {
+    margin-top: 48px;
+    margin-left: 38px;
+}
+
+.header-blog {
+    margin-top: 48px;
+    margin-left: 40px;
+}
+
+.header-contact {
+    margin-top: 48px;
+    margin-left: 38px;
+}
+
+.header-sign {
+    margin-top: 48px;
+    margin-left: 752px;
+}
+
+.header-button {
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 120px;
+    height: 59.65px;
+    background: #824FF1;
+    border-radius: 6px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+
 section {
     display: inline-block;
 }
@@ -29,7 +86,6 @@ section {
     font-weight: normal;
     font-size: 72px;
     line-height: 76px;
-    /* or 106% */
     letter-spacing: 0.02em;
     color: #1B0A42;
 
@@ -45,7 +101,6 @@ section {
     font-weight: normal;
     font-size: 20px;
     line-height: 32px;
-    /* or 160% */
     letter-spacing: 0.02em;
     color: #9A9A9A;
     
@@ -63,7 +118,6 @@ section {
     font-weight: bold;
     font-size: 16px;
     line-height: 32px;
-    /* or 200% */
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
